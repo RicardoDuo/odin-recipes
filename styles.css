@@ -1,0 +1,38 @@
+/*pagina principal index*/
+
+h1{
+    background-color: brown;
+    color: white;
+    padding-left: 5%;
+    max-width: 280px;
+}
+
+img{
+    height: auto;
+    width: 250px;
+}
+
+.platillo{
+    font-family: Courier;
+    background-color: lightcoral;
+    color: white;
+    padding-left: 1%;
+    max-width: 350px;
+
+}
+
+/*Pagina de pasticho*/
+.lista{
+    background-color: pink;
+    font-family: arial;
+    max-width: 350px;
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+}
+
+.ingredientes{
+    font-family: courier;
+    font-size: 22px;
+    font-weight: bold;
+}
