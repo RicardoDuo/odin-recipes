@@ -1,7 +1,7 @@
 /*pagina principal index*/
 
 .inicio{
-    max-width: 500px;
+    max-width: 600px;
 }
 
 h1{
@@ -26,10 +26,10 @@ img{
 
 }
 
-/*Pagina de pasticho*/
+
+/*Pagina de platillos*/
 .lista{
     background-color: pink;
-    font-family: arial;
     max-width: 350px;
     padding-top: 1px;
     padding-left: 10px;
@@ -41,4 +41,12 @@ img{
     font-family: courier;
     font-size: 22px;
     font-weight: bold;
+    background-color: brown;
+    color: white;
+    padding-left: 10px;
+}
+
+p,
+li{
+    font-family: arial;
 }
