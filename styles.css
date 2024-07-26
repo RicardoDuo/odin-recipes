@@ -1,15 +1,20 @@
 /*pagina principal index*/
 
+.inicio{
+    max-width: 500px;
+}
+
 h1{
     background-color: brown;
     color: white;
+    font-size: 36px;
     padding-left: 5%;
-    max-width: 280px;
+    max-width: 400px;
 }
 
 img{
     height: auto;
-    width: 250px;
+    width: 350px;
 }
 
 .platillo{
@@ -17,7 +22,7 @@ img{
     background-color: lightcoral;
     color: white;
     padding-left: 1%;
-    max-width: 350px;
+    max-width: 400px;
 
 }
 
@@ -28,6 +33,7 @@ img{
     max-width: 350px;
     padding-top: 1px;
     padding-left: 10px;
+    padding-right: 12px;
     padding-bottom: 1px;
 }
 
