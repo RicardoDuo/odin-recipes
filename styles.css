@@ -1,31 +1,39 @@
 /*pagina principal index*/
 
-.inicio{
-    max-width: 600px;
-}
-
+ body{
+    margin: 0;
+ }
+ 
 h1{
     background-color: brown;
     color: white;
-    font-size: 36px;
-    padding-left: 5%;
-    max-width: 400px;
+    font-size: 40px;
+    width: auto;
+    padding-left: 3%;
 }
 
 img{
-    height: auto;
+    height: 200px;
     width: 350px;
+    border: 2px solid lightcoral;
 }
 
 .platillo{
     font-family: Courier;
     background-color: lightcoral;
     color: white;
-    padding-left: 1%;
-    max-width: 400px;
-
+    padding-left: 2%;
+    margin-bottom: 15px;
 }
 
+/*Visualizacion de los elementos*/
+
+.section1, .section2, .section3, .section4{
+    width: 354px;
+    height: 300px;
+    margin-left: 20px;
+    display: inline-block;
+}
 
 /*Pagina de platillos*/
 .lista{
@@ -49,4 +57,10 @@ img{
 p,
 li{
     font-family: arial;
+}
+
+footer{
+    background-color: lightcoral;
+    text-align: center;
+    padding-bottom: 10px;
 }
