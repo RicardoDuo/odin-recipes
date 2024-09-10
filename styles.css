@@ -27,6 +27,10 @@ img{
 
 /*Visualizacion de los elementos*/
 
+.contenedor{
+    margin-bottom:  100px;
+}
+
 .section1, .section2, .section3, .section4{
     width: 354px;
     height: 300px;
